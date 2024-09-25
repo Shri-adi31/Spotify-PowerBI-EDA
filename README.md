@@ -1,3 +1,3 @@
 # Spotify-PowerBI-EDA
 
-![Spotify Dashboard](https://github.com/your-username/my-project/blob/main/assets/dashboard.png)
+![Spotify Dashboard](https://github.com/shri-adi31/Spotify-PowerBI-EDA/spotify dashboard.png)
